@@ -1,0 +1,27 @@
+.box1{
+	height: 200px;
+	width: 200px;
+	background-color: #ee3e64
+}
+
+.box2{
+	height: 200px;
+	width: 200px;
+	background-color: #44accf;
+}
+.box3{
+	height: 200px;
+	width: 200px;
+	background-color: #b7d84b;
+}
+
+.body{
+	margin:0;
+	padding: 0;
+}
+
+.box2{
+	left: 200px;
+	position: relative;
+
+}
